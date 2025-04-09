@@ -42,7 +42,6 @@ This project analyzes a retail dataset to uncover actionable insights for store 
 - Python 3.x
 - pandas
 - matplotlib
-- seaborn
 
 ## Key_Achievements
 
